@@ -1,8 +1,8 @@
-CONTEÚDO							STATUS
-- Introdução							OK
-- Instalando Docker						OK
-- Conhecendo o WSL 2						OK
-- Instalando WSL 2 do zero					OK
-- Dicas truques com WSL 2 e Windows Terminal
-- Backup com WSL 2
-- Integrando Docker com WSL 2
+CONTEÚDO							STATUS		DATA
+- Introdução							OK		-
+- Instalando Docker						OK		-
+- Conhecendo o WSL 2						OK		-
+- Instalando WSL 2 do zero					OK		-
+- Dicas truques com WSL 2 e Windows Terminal			OK		2022-07-31
+- Backup com WSL 2						OK		2022-07-31
+- Integrando Docker com WSL 2					OK		2022-07-31
