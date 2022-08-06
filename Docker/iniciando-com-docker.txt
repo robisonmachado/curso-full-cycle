@@ -1,2 +1,8 @@
 CONTEÚDO							STATUS		DATA
-- Hello World							-		-
+- Hello World							OK		2022-08-04
+- Executando Ubuntu						OK		2022-08-04
+- Publicando portas com nginx					-		-
+- Removendo containers
+- Acessando e alterando arquivos de um container
+- Iniciando com bind mounts
+- Trabalhando com volumes
